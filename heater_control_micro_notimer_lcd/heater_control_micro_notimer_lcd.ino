@@ -1,5 +1,5 @@
 //this bit is pretty unnessessarry, it was me figuring out how objects work
-
+//you're a cock
 class ApplianceControl    //
 
 {
