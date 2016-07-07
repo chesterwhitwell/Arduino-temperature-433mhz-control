@@ -1,4 +1,4 @@
-
+//you're not really a cock
 #include <VirtualWire.h>
 
 const int ledPin = 1;
